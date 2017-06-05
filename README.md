@@ -1,2 +1,2 @@
 # FriendFinder
-FriendFinder App with Express and Node
+Basic FriendFinder app using Node and Express servers
